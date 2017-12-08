@@ -37,10 +37,9 @@ section.row1 > .main-text > h3{
 
 
 section.row2 {
-	padding: 1px;
+	padding: 2px;
 	clear: both;
 	height: auto;
-	margin: 2px;
 }
 
 section.row2 > .team > .team-picture{
